@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "BUNDLE",
+    "kind": "RegularFile"
+  },
+  "applicationId": "com.rhinodesktop.foreorder_golf_consumer1",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "../../../../../../../../New folder/foreorder-consumer-android-master/foreorder-consumer-android-master/app/release/app-release.aab"
+    }
+  ],
+  "elementType": "File"
+}

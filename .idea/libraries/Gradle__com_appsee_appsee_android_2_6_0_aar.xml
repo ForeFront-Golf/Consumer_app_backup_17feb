@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appsee:appsee-android:2.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a9d0bae52c8e6e6eab4beabd14bcbde2/transformed/jetified-appsee-android-2.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a9d0bae52c8e6e6eab4beabd14bcbde2/transformed/jetified-appsee-android-2.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appsee/appsee-android/2.6.0/d95c0715ed6b45c12c0fea60c0eae7f632adc731/appsee-android-2.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appsee/appsee-android/2.6.0/526be1e5e5483f2439d096b139a75cb8a70930e9/appsee-android-2.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

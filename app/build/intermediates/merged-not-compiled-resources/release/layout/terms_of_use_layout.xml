@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:background="@color/fore_order_blue">
+
+    <TextView
+        android:id="@+id/textview_legal_doc_links"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="@color/white_percent_50"
+        android:textSize="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/terms_and_privacy_policy"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@color/fore_order_blue">
+
+    <TextView
+        android:id="@+id/textview_terms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="@color/white_percent_50"
+        android:textSize="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/terms_of_use"/>
+
+    <TextView
+        android:id="@+id/txt_and"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="@color/white_percent_50"
+        android:textSize="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="and"/>
+
+
+    <TextView
+        android:id="@+id/textview_privacy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="@color/white_percent_50"
+        android:textSize="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/privacy_policy"/>
+    </LinearLayout>
+
+</LinearLayout>
